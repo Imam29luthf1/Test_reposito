@@ -25,4 +25,4 @@ x_train,shape, y_train.shape
 
 ## References
 
-1. Di scikit-learn documentation 
+1. Di scikit-learn documentation "# Tutorial_git" 
